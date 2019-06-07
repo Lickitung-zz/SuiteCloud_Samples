@@ -4,16 +4,12 @@
 		<item key="dialogHeight" value="691"/>
 		<item key="dialogWidth" value="614"/>
 		<list key="orderedElements">
-			<item value="search.in.help"/>
 		</list>
 		<list key="orderedProviders">
-			<item value="org.eclipse.ui.actions"/>
 		</list>
 		<list key="textEntries">
-			<item value="1"/>
 		</list>
 		<list key="textArray">
-			<item value="plugin"/>
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
